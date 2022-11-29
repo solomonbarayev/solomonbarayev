@@ -1,12 +1,36 @@
 <h1 align="center">Hi 👋, I'm Solomon Barayev</h1>
 <h3 align="center">A passionate fullstack developer from Israel</h3>
 
+<h3>Skills</h3>
+<h4>Programming Languages</h4>
+- HTML5
+- CSS3
+- SCSS
+- JS (ES6)
+- Typescript
+- React
+- Node
+- Express
+- MongoDB
+- Mongoose
 
-- 👨‍💻 All of my projects are available at [https://www.1bar.design/portfolio/](https://www.1bar.design/portfolio/)
+<h4>Other Relevant Skills</h4>
+- Web Design
+- Figma
+- Photoshop
+- Illustrator
+- Wordpress
+- 
+<h4>Ancillary Skills</h4>
+- npm
+- git
+- webpack
+- babel
+- agile scrum
+- BEM methodology
 
-- 📝 I regularly write articles on [https://www.1bar.design/blog/](https://www.1bar.design/blog/)
-
-- 📫 How to reach me **sbarayev2@gmail.com**
+- 📫 Email **sbarayev2@gmail.com**
+- 📞 Phone **+972-50-956-3237**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
