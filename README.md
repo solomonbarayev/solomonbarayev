@@ -13,6 +13,16 @@
 - Express
 - MongoDB
 - Mongoose
+- C# (Basic)
+
+<h4>Ancillary Skills</h4>
+- OOP
+- npm
+- git
+- webpack
+- babel
+- agile scrum
+- BEM methodology
 
 <h4>Other Relevant Skills</h4>
 - Web Design
@@ -20,14 +30,6 @@
 - Photoshop
 - Illustrator
 - Wordpress
-
-<h4>Ancillary Skills</h4>
-- npm
-- git
-- webpack
-- babel
-- agile scrum
-- BEM methodology
 
 <h4>Contact</h4>
 - 📫 Email sbarayev2@gmail.com
