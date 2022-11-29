@@ -33,8 +33,8 @@
 - Wordpress
 
 <h4>Contact</h4>
-- 📫 Email sbarayev2@gmail.com
-- 📞 Phone +972-50-956-3237
+- 📫 Email <a href="mailto:sbarayev2@gmail.com">sbarayev2@gmail.com</a>
+- 📞 Phone <a href="tel:+972509563237">+972-50-956-3237</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
