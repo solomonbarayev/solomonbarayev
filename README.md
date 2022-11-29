@@ -20,7 +20,7 @@
 - Photoshop
 - Illustrator
 - Wordpress
-- 
+
 <h4>Ancillary Skills</h4>
 - npm
 - git
@@ -29,8 +29,9 @@
 - agile scrum
 - BEM methodology
 
-- 📫 Email **sbarayev2@gmail.com**
-- 📞 Phone **+972-50-956-3237**
+<h4>Contact</h4>
+- 📫 Email sbarayev2@gmail.com
+- 📞 Phone +972-50-956-3237
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
