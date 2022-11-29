@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Solomon Barayev</h1>
 <h3 align="center">A passionate fullstack developer who's always looking to widen his horizons!</h3>
+<h4> align="center">(Open to Fullstack and Frontend offers)</h4>
 
 <h3>Skills</h3>
 <h4>Programming Languages</h4>
