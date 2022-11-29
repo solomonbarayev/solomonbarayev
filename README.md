@@ -7,6 +7,7 @@
 - HTML5
 - CSS3
 - SCSS
+- Styled Components
 - JS (ES6)
 - Typescript
 - React
