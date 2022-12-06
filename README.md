@@ -2,8 +2,9 @@
 <h3 align="center">A passionate fullstack developer who's always looking to widen his horizons!</h3>
 <h4 align="center">(❗️Open to Fullstack and Frontend offers❗️)</h4>
 
-<h3>Skills</h3>
-<h4>Programming Languages</h4>
+## Skills
+### Programming Languages
+
 - HTML5
 - CSS3
 - SCSS
@@ -17,7 +18,8 @@
 - Mongoose
 - C# (Basic)
 
-<h4>Ancillary Skills</h4>
+### Ancillary Skills
+
 - OOP
 - npm
 - git
@@ -26,16 +28,17 @@
 - agile scrum
 - BEM methodology
 
-<h4>Other Relevant Skills</h4>
+### Other Relevant Skills
+
 - Web Design
 - Figma
 - Photoshop
 - Illustrator
 - Wordpress
 
-<h4>Contact</h4>
+## Contact
+
 - 📫 Email <a href="mailto:sbarayev2@gmail.com">sbarayev2@gmail.com</a>
-- 📞 Phone <a href="tel:+972509563237">+972-50-956-3237</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
