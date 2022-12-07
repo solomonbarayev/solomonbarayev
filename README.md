@@ -5,13 +5,16 @@
 ## Skills
 ### Programming Languages
 
+#### Client side:
 - HTML5
 - CSS3
 - SCSS
 - Styled Components
-- JS (ES6)
-- Typescript
+- JavaScript (ES6)
+- TypeScript
 - React
+
+#### Server side:
 - Node
 - Express
 - MongoDB
