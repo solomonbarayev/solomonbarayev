@@ -19,40 +19,17 @@
 ---
 
 ## 🔧 Skills
-### Programming Languages
-#### Client side:
-- HTML5
-- CSS3
-- SCSS
-- Styled Components
-- JavaScript (ES6)
-- TypeScript
-- React
 
-#### Server side:
-- Node.js
-- Express
-- MongoDB
-- SQL
-- Postgres
-- Mongoose
-- Prisma
+| **Client-side** | **Server-side** | **Ancillary** | **Other** |
+|-----------------|-----------------|----------------|-----------|
+| HTML5           | Node.js         | OOP            | Web Design |
+| CSS3            | Express         | npm            | Figma      |
+| SCSS            | MongoDB         | git            | Photoshop  |
+| Styled Comp.    | SQL             | webpack        | Illustrator|
+| JavaScript ES6  | Postgres        | babel          | WordPress  |
+| TypeScript      | Mongoose        | agile scrum    | Oxygen     |
+| React           | Prisma          | BEM            |            |
 
-### Ancillary Skills
-- OOP
-- npm
-- git
-- webpack
-- babel
-- agile scrum
-- BEM methodology
-
-### Other Relevant Skills
-- Web Design
-- Figma
-- Photoshop
-- Illustrator
-- WordPress
 
 ---
 
